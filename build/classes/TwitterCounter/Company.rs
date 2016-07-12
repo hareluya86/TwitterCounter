@@ -1,0 +1,2 @@
+TwitterCounter.CompanyId
+TwitterCounter.Company
